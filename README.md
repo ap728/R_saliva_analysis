@@ -4,9 +4,9 @@
 
 ### Description of File Contents
 ####    Pretty Interaction Plot ANOVA.R
-         2 way interaction plot for ANOVA using ggplot2
+2 way interaction plot for ANOVA using ggplot2
 ####    Anxiety and Housekeeping Backups.R
-        saved to human and computer readable robjects for individual dataframes we worked on
+save to human and computer readable robjects for individual dataframes we worked on
 
 ### R files not yet pushed to github
 #### Loess_vs_regression_script.R
